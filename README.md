@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2>About Me</h2>
 
-<p>My name is [Your Name], and I'm a dedicated professional who recently embarked on a rewarding career path in programming. As a married father of two, I find immense joy in both my personal and professional life.</p>
+<p>My name is Thomas Westerfield, and I'm a dedicated professional who recently embarked on a rewarding career path in programming. As a married father of two, I find immense joy in both my personal and professional life.</p>
 
 <p>I have a deep passion for learning and technology, and I'm constantly seeking opportunities to expand my knowledge in this ever-evolving field. In addition, my fascination with aviation has inspired me to explore the intersection of technology and aerospace.</p>
 
