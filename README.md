@@ -8,6 +8,30 @@
 <p>Through my programming journey, I aim to make a lasting impact on the future of technology. I firmly believe in the power of innovation and continuous growth, and I'm committed to honing my skills and staying ahead of industry trends.</p>
 
 <p>I am excited to connect with like-minded individuals, collaborate on meaningful projects, and contribute to the advancement of technology-driven solutions.</p>
+## Summary
+
+I recently graduated with honors, earning a certificate in Web Development and Technology. I was even inducted into the prestigious Phi Theta Kappa honor society. With a strong commitment to lifelong learning, I continue to expand my knowledge and gain valuable insights beyond my formal education.
+
+Throughout my studies, I acquired proficiency in a variety of programming languages and technologies. These include:
+
+- 💻 HTML
+- 🎨 CSS
+- 🌐 JavaScript
+- 🐍 Python
+- 🔌 PHP
+- 🔍 MySQL
+- 💡 jQuery
+- 🗄️ SQL
+
+I am dedicated to keeping up with the latest industry trends and continuously enhancing my skills.
+
+Currently, I am actively pursuing in-depth knowledge of frameworks and libraries such as:
+
+- ⚛️ React
+- 🔧 Bootstrap
+- 🎻 Django
+
+By leveraging my educational foundation, passion for technology, and drive for growth, I am determined to make a significant impact in the world of programming and contribute to cutting-edge projects in the future.
 <!--
 **Tallstone1984/Tallstone1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
