@@ -14,22 +14,22 @@ I recently graduated with honors, earning a certificate in Web Development and T
 
 Throughout my studies, I acquired proficiency in a variety of programming languages and technologies. These include:
 
-- 💻 HTML
-- 🎨 CSS
-- 🌐 JavaScript
-- 🐍 Python
-- 🔌 PHP
-- 🔍 MySQL
-- 💡 jQuery
-- 🗄️ SQL
+- HTML
+- CSS
+- JavaScript
+- Python
+- PHP
+- MySQL
+- jQuery
+- SQL
 
 I am dedicated to keeping up with the latest industry trends and continuously enhancing my skills.
 
 Currently, I am actively pursuing in-depth knowledge of frameworks and libraries such as:
 
-- ⚛️ React
-- 🔧 Bootstrap
-- 🎻 Django
+- React
+- Bootstrap
+- Django
 
 By leveraging my educational foundation, passion for technology, and drive for growth, I am determined to make a significant impact in the world of programming and contribute to cutting-edge projects in the future.
 <!--
